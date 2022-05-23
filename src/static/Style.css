@@ -3,7 +3,7 @@
     height: 50px;
     width: 102%;
     margin-left: -1.32%;
-    background-color: blueviolet;
+    background-color: #8a2be2;
 }
 
 .menu ul
@@ -21,6 +21,13 @@
     display: inline-block;
 }
 
+.logo img
+{
+    margin-left: 48%;
+    height: 50px;
+    width: 50px;
+}
+
 .menu a
 {
     color: white;
@@ -29,7 +36,7 @@
 
 .Inicial
 {
-    padding-top: 100px;
+    padding-top: 90px;
     line-height: 10px;
 }
 
