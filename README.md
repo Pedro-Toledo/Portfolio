@@ -7,7 +7,7 @@ Atividade de Design Digital
 
 ## Configuração das pastas
 
-* `doc`: Pasta com os wireframes.
+* `wireframe`: Pasta com os wireframes.
 * `src`: Pasta com os códigos.
 
 ## Executando a aplicação
